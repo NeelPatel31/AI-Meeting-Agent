@@ -1,4 +1,4 @@
-# **AI Meeting Scheduler**
+# **AI Meeting Scheduling Agent**
 
 An AI-powered conversational agent that helps users schedule meetings, list upcoming events, and interact with dynamically generated UI cards. Inspired by OpenAI’s ChatKit, this project enables an LLM to produce structured HTML-based cards alongside natural language responses—enhancing the clarity, usability, and interactivity of conversations.
 
